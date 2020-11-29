@@ -2,6 +2,7 @@
 - Compared COVID case rates by urbanization and compared COVID case rates in relation to several state-related metrics.
 - each point in the boxplots represents a county
 - each point in the scatterplots represents a state
+
 Sources:
 
 population:	https://www.infoplease.com/us/states/state-population-by-rank
